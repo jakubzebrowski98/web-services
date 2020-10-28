@@ -1,0 +1,19 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "idnex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakubzebrowski98/web-services.git"
+  },
+  "author": "23656",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jakubzebrowski98/web-services/issues"
+  },
+  "homepage": "https://github.com/jakubzebrowski98/web-services#readme"
+}
